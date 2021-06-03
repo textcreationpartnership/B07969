@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and an absolute order of confession most requisite of all persons to be ouer loked [sic] before they confesse them.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07969</idno><idno type="EEBO-CITATION">71305152</idno>
+  <idno type="VID">183885</idno>
+  <idno type="EEBO-PROQUEST">2240944237</idno>
+  <idno type="STC">STC 18843</idno>
+  <idno type="STC">ESTC S94535</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B07969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2207:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and an absolute order of confession most requisite of all persons to be ouer loked [sic] before they confesse them.</title>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. Carter,</publisher>
+                  <pubPlace>[S.l., :</pubPlace>
+                  <date>ca. 1577].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Black letter.</note>
+                  <note>Signatures: A-B⁸.</note>
+                  <note>Publisher and date of publication from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Confession --  Catholic Church --  Early works to 1800.</term>
+               <term type="topical_term">Pastoral theology --  Catholic Church --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:183885:1"/>
+            <pb facs="tcp:183885:1"/>
+            <head>A short and an absolute order of confession most requisite of all persons to be ouer loked before they con<g ref="char:EOLhyphen"/>fesse them.</head>
+            <p>HAuing treated before of con<g ref="char:EOLhyphen"/>tricion, we will heare like<g ref="char:EOLhyphen"/>wise shew a way how they shuld prepare &amp; examine themselues, which often vse to be confessed: of whome many are combred, with gnawing scruples, for that they narrowly gropinge euery corner of their conscience, some<g ref="char:EOLhyphen"/>tymes can finde nothing wherof to accuse themselues: whereby in the one side they knowinge
+<pb facs="tcp:183885:2"/>well, that they are not nor cānot be without the common spots of human imbecillitie: and not on the other side, findinge them, at the tyme when they should be clensed of them, are in great dis<g ref="char:EOLhyphen"/>quiet &amp; anguish of mynd, fearing y<seg rend="sup">t</seg> they are neuer rightly cōfessed.</p>
+            <p>Of this two causes may be al<g ref="char:EOLhyphen"/>leaged, the one bicause it is very hard for a man to know himselfe in deade, and to serch throughly all the secret places of his con<g ref="char:EOLhyphen"/>science, according to this sayinge of y<seg rend="sup">e</seg> dropher, <hi>Psal. 18.</hi> who know<g ref="char:EOLhyphen"/>eth his excesses? O Lord deliuer me from my hydden offences.</p>
+            <pb facs="tcp:183885:2"/>
+            <p> The other cause is for that thē faults of the iust, who (as Salo<g ref="char:EOLhyphen"/>mon sayth, <hi>Prou. 24.</hi> Fall seuen tymes a daye) are rather the faults of omitting good thinges, then of committing euil. But for the playner explication hereof, it is euident, that all offences are commissiue or omissiue, that is either by committinge robbery, murder, or other dishonesty, or els by omittinge and neglectinge his dutie, in louing GOD, in fa<g ref="char:EOLhyphen"/>sting, in praying. &amp;c.</p>
+            <p>Now of these two sortes of sinz whereas the first consisteth in ac<g ref="char:EOLhyphen"/>tiō, are very easy to be knowen:
+<pb facs="tcp:183885:3"/>but the other not consistinge in doing but in not doing, are more difficult, for that which is not cannot be decerned: and bicause the vertuous people syldome fall into these actuall offences: and the faultes of omission are harde to perceaue: Hense aryseth that they knowe not whereof to bee confessed, which so much afflic<g ref="char:EOLhyphen"/>teth them.</p>
+            <p>But for the ease of suche per<g ref="char:EOLhyphen"/>sons I haue compose this briefe memoriall, wherein these kynde of sinnes, (I meane the faultes of omission) are chiefely treated of.</p>
+            <pb facs="tcp:183885:3"/>
+            <p> And for that these offences are either against god, or against our selues, or against our neighbour: For this cause I haue deuided them into thrée partes, wherein these three fortes of negligences shalbe spoken of: which some<g ref="char:EOLhyphen"/>tymes be not veniall sinnes: yet they be alwayes imperfections: and may full oft be venial offen<g ref="char:EOLhyphen"/>ces.</p>
+            <p>For those that desyre to be per<g ref="char:EOLhyphen"/>fect, must accuse themselues of these thinges, yet not alwayes but sometymes, chiefely at the principall feastes.</p>
+            <div type="part">
+               <pb facs="tcp:183885:4"/>
+               <head>Here foloweth the me<g ref="char:EOLhyphen"/>moriall.</head>
+               <p>AFter that the penitent hath vttered the generall confes<g ref="char:EOLhyphen"/>sion, before he enter into the perticuler rehersall of his offen<g ref="char:EOLhyphen"/>ces, let hym accuse him selfe of these foure thinges folowing.</p>
+               <p>First for that he came to this sacrament, not prepared as he ought to bée: and for not vsinge sufficient diligence in the exami<g ref="char:EOLhyphen"/>nacion of his conscience.</p>
+               <p>Secondly, let him accuse him<g ref="char:EOLhyphen"/>selfe bicause he hath not such so<g ref="char:EOLhyphen"/>row &amp; repentaunce for his offē<g ref="char:EOLhyphen"/>ces:
+<pb facs="tcp:183885:4"/>and bicause he hath not that firme &amp; ful intent to leaue them as is requisite.</p>
+               <p>Thirdly, for that he did not re<g ref="char:EOLhyphen"/>ceue the dreadfull sacrament of the aulter with that puritie of conscience and deuotion as was conuenient: and for that after communion he was not so sober as he should haue béene.</p>
+               <p>Fourthly, let him blame him<g ref="char:EOLhyphen"/>selfe, for not hauing trayuayled diligently in the amendment of his lyfe: and for not procedinge and profeting dayly in vertue &amp; seruice of GOD: but rather to haue cōtinewed still in one kinde
+<pb facs="tcp:183885:5"/>of lasie slouthfulnesse, and per<g ref="char:EOLhyphen"/>chaunce to haue reuoulted back<g ref="char:EOLhyphen"/>warde. After this, he may begin to accuse him selfe according to the direction that ensueth.</p>
+            </div>
+            <div type="part">
+               <head>Towards God.</head>
+               <p>TOwardes God we ought to haue these thrée theologicall vertues which are Faith, Hope, and Charitie. In euery of these he maye accuse him selfe as fo<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>Cōcerning charitie, for not hauīg
+<pb facs="tcp:183885:5"/>loued God, wyth all his harfe, and with hys soule, as was bounde to doe: But hath setled his affection in the disordered loue of creatures, and of the va<g ref="char:EOLhyphen"/>nitie of this worlde, forgettinge his creator altogether.</p>
+               <p>Concerning fayth, for not be<g ref="char:EOLhyphen"/>leueing so firmely as hée ought: And for not endeuoring speedely to repell, vayne thoughts and suggestions of the Dyuell ten<g ref="char:EOLhyphen"/>ding to destroy or to weaken his fayth.</p>
+               <p>Concerning charytie, let hym blame hym selfe, if in any hys trobles gréefes or necessities, he
+<pb facs="tcp:183885:6"/>hath not reposed his sure hope &amp; confidence in his sauiour and if hee hath labored ouer earnestly with his body and mynde to bée ridde of his miserie: For that it pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>céedth of lytle hope.</p>
+               <p>Concerning the puritie of intē<g ref="char:EOLhyphen"/>tion. For not performing the seruice of God, for the onely re<g ref="char:EOLhyphen"/>spect of his loue as in dutye hée was bounde: But for that hée hath done it somtymes for hys priuate auayle, somtymes for a custome, somtymes bycause they were conformable to his disiers &amp;c.</p>
+               <p>He shoulde likewise accuse him
+<pb facs="tcp:183885:6"/>self to haue béene slowe in aun<g ref="char:EOLhyphen"/>swering the diuine inspirations of God, often resisting the worke of the holy Ghost, this is a very spirituall and secret sore, worthy alway to sticke in our conscience.</p>
+               <p>In lyke naner for beinge in<g ref="char:EOLhyphen"/>gratefull towards the benefites of god: and for not rendring vn<g ref="char:EOLhyphen"/>to him due thanks therefore, and for that he hath not endeuoured to serue and loue more earnest<g ref="char:EOLhyphen"/>ly the giuer of al goodnesse.</p>
+               <p>Like wyse let him accuse him<g ref="char:EOLhyphen"/>selfe, to haue forgotten his Lord, banishing him often times out of his harte: Whereas hée ought
+<pb facs="tcp:183885:7"/>to haue hym alwayes presente and fixed before his eyes.</p>
+               <p>Concerninge patience in ad<g ref="char:EOLhyphen"/>uersitie, let him bethinke hym<g ref="char:EOLhyphen"/>selfe if he hath not (perchaunce) abidden pacient<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye, the scourge that god hath sēt him, &amp; hath nor receiued it méekely at his hands as a medecin, nor hath not thāk<g ref="char:EOLhyphen"/>ed hym therefore.</p>
+               <p>Further for that hee hath not exhibited dewe deuotion to the sacred places, nor at the tyme of masse to the holy function done there. Nor to the most blessed sacrament.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:183885:7"/>
+               <head>Towardes himselfe.</head>
+               <p>
+                  <hi>A</hi> Man hath in hym many parts, he hath a body with all hys members and sences, a soule with all his appetites, and a spirit wyth all hys poweres, that is vnderstanding, memory, and wil: and so may transgresse the rule and order he ought to obserue in euery of these</p>
+               <p>First then let hym accuse him selfe, for not dealing wyth his body, wyth such rigour and se<g ref="char:EOLhyphen"/>uerytie as was conuenient, as well in meate, drinke, apparell
+<pb facs="tcp:183885:8"/>and sleape, as in al other things: Yea, for cheareshinge hys bodye two delycately, and for beinge ouer fauourable to himselfe.</p>
+               <p>For not restraining his imagi<g ref="char:EOLhyphen"/>nation and other sences orderly: But rather wilfullye to suffer them to wander abrod, hearing, séeing, speaking, and imagining, sundrie idle and friuolus toyes, al which after resorting agayne vnto thy memory, doe cause him to be distracted in his prayers.</p>
+               <p>Let him also accuse himselfe, for not hauing mortified his ap<g ref="char:EOLhyphen"/>petites, nor wrastled with his will so violently as hee myght
+<pb facs="tcp:183885:8"/>haue done, yea, for the folowing and fulfilling thereof in euery degrée: And for that he is not so humble in hart and déed as is requisite: and for that hée doeth not accoumpt hymselfe so vyle and cwretched as hée is in dede, and therefore handleth not him selfe in such order as he best de<g ref="char:EOLhyphen"/>serueth.</p>
+               <p>Lastly for that he is dull and neglygent in his prayers, some<g ref="char:EOLhyphen"/>tymes intermitting them alto<g ref="char:EOLhyphen"/>gither, to folowe some vayne tri<g ref="char:EOLhyphen"/>fle or peuish businesse.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:183885:9"/>
+               <head>Towards his neighbour.</head>
+               <p>FIrst let him blame himselfe, for not bearing to his neigh<g ref="char:EOLhyphen"/>bour such affection as hee ought: for not releuing his néede with such fauour and belpe as he coulde and shoulde: For not ha<g ref="char:EOLhyphen"/>uing due compassion of his mi<g ref="char:EOLhyphen"/>serie, and for not praying to god for hym as was his parte.</p>
+               <p>And agayne, bycause he hath not felt so fully as hee ought, nor hath not had so hartye com<g ref="char:EOLhyphen"/>passion as was due to the pub<g ref="char:EOLhyphen"/>lycke and common calamytie of
+<pb facs="tcp:183885:9"/>the church, hapned bi war heresy &amp;c. And that he hath not com<g ref="char:EOLhyphen"/>mended it to God as hee myght and shoulde haue done.</p>
+               <p>Those which haue superiours shoulde accuse themselues, for not shewing obedience and reue<g ref="char:EOLhyphen"/>rence according to their dutye: And those that haue subiectes and children, shoulds accuse thē<g ref="char:EOLhyphen"/>selues for not hauing instructed, chastened, or not prouyded for them thinges necessarie. And y<seg rend="sup">t</seg> they haue not had such care of them as was conuenient.</p>
+            </div>
+            <div type="part">
+               <head>Concerning actiue offences.</head>
+               <p>When he hath in this sort ac<g ref="char:EOLhyphen"/>cused
+<pb facs="tcp:183885:10"/>himself in y<seg rend="sup">e</seg> faults of omis<g ref="char:EOLhyphen"/>siō he may sodenly exhibit a like bill of complaynt agaynst hym<g ref="char:EOLhyphen"/>selfe composed of the crymes cal<g ref="char:EOLhyphen"/>led cōmissiue offences, by run<g ref="char:EOLhyphen"/>ning ouer the ten commaunde<g ref="char:EOLhyphen"/>mentes, the seuen capitall sinns. Blaming himself of all that his conscience shall accuse hym in euery of these. And if he require a more breife way, he may take a short and spéedy suruey. Ouer all his thoughtes, wordes and workes, nohing his defectes, in al these &amp; accuse himself therof.</p>
+               <p>After all thys he must accuse himselfe of the crymes appertei<g ref="char:EOLhyphen"/>ning
+<pb facs="tcp:183885:10"/>to hys degrée, calling, and office, declaring that he hath don contrary to the rule and equitie of his vocation: As if he be a re<g ref="char:EOLhyphen"/>lygious man of his tryde vowe, if he be a iudge, phisicion, mer<g ref="char:EOLhyphen"/>chaunt, or lawyer, of thinges belonging to his office.</p>
+               <p>Hauing finished these accusati<g ref="char:EOLhyphen"/>ons, let hym conclude his confes<g ref="char:EOLhyphen"/>sion, saying of all these offences and of all others which I haue commytted in thought, worde, and dede, I blame, I accuse my selfe, and I saye vnto God, my faulte, my greuous guilt. And I request of thée O father which
+<pb facs="tcp:183885:11"/>heare presentest the parson of god, absolution and penaunce for them</p>
+            </div>
+            <div type="part">
+               <head>Of the necessitye of confession: taken out of the catechisme which was alowed by the Counsell of Trident.</head>
+               <p>NO man must thinke that our Lorde cōmaunded con<g ref="char:EOLhyphen"/>fession in such sorte, y<seg rend="sup">t</seg> we may leaue the same vndone, if wee woulde. For euery christian ought to be thus perswaded, that whosoeuer hath committed mor<g ref="char:EOLhyphen"/>tall sin, ought to be called backe to spirituall lyfe, by the sacra<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:183885:11"/>of confession: The which thinge is playnely set out, in a goodly and metophoricall spéech of our Sauiour, who calleth the authoritie of ministring this sa<g ref="char:EOLhyphen"/>crament, the keay of the kinge<g ref="char:EOLhyphen"/>dome of heauen. For euen as no man can come in ani place, with<g ref="char:EOLhyphen"/>out hym who kéepeth the kayes: So is it meant, that none doe come to heauen, if the priestes (to whose custody our Lorde com<g ref="char:EOLhyphen"/>mytted his keyes) open not the doores. For if it were otherwise, it shoulde séeme the church shuld haue had the vse of the keyes to no purpose: And in vayne
+<pb facs="tcp:183885:12"/>shoulde he (who hath charge of the keyes) keepe men backe frō the entraunce to heauen, if so be there were any other passage, to enter in at. And Sainct Austen hath this notable saying, he saith let no man say in his mynde: I doe secreat penaunce vnto our Lorde God, who pardoneth my offences, he knoweth my hart: If this will serue, it was spoken without cause: Whose sins you forgiue in earth, shalbe forgiuē in heauen. And by thys meanes the keyes were giuen the church without cause. Sainct Ambrose also wryteth to the same effect,
+<pb facs="tcp:183885:12"/>in that booke where in hee re<g ref="char:EOLhyphen"/>fuseth the heresy of the <hi>Noua<g ref="char:EOLhyphen"/>tians,</hi> who affirmed, y<seg rend="sup">e</seg> our Lorde had reserued to his selfe onely to forgiue sinnes. Doth he rather honour God (sayeth he) who o<g ref="char:EOLhyphen"/>bayeth his ministers or he that withstandeth them. God com<g ref="char:EOLhyphen"/>maunded vs, to bee obedient to his minysters: Whome when we obay, we doe honour to god onely. If a manne bee de<g ref="char:EOLhyphen"/>sirous to know when he is boūde to confession, let him vnderstand, that all sorte of christians ought to come there vnto, when they haue the perfect vse of reason:
+<pb facs="tcp:183885:13"/>That is euery one is bounde to be confessed, when he is able to discerne the good from the bad: And when noughtinesse maye take roote in hym. So when a manne is come to those yeares wherein he must consider howe to obtayne eternall lyfe: so sone he is bounde to confesse his sins to a priest, whereas no man, can loke for saluation, whose consci<g ref="char:EOLhyphen"/>ence is poluted with sinne. The church also in the same place and Canon before recited sheweth, what time men must resort to cō<g ref="char:EOLhyphen"/>fessiō: which is, euery yeare once at the least each man muste bée
+<pb facs="tcp:183885:13"/>confessed. But if we way wyth our selues what is expedient for our soule health, then doubtles, when we are in daunger of life, or whē we are about some thing which must not be done of one y<seg rend="sup">t</seg> is infected with sinne, (as when we either mynister or receyue, the holy sacramentes) so ofte we must of necessity vse confession. So we must doe also when wee stande in feare least wee shoulde forget any sinne: For neyther can we be cōfessed of those things which we haue forgetten: ney<g ref="char:EOLhyphen"/>ther doe we obtayne of god par<g ref="char:EOLhyphen"/>don for our sinnes: vnlesse they
+<pb facs="tcp:183885:14"/>be blotted out by penaunce.</p>
+            </div>
+            <div type="part">
+               <head>The description of confes<g ref="char:EOLhyphen"/>sion as it is a sacrament.</head>
+               <p>THe sacrament of confession is such a kynde of accusation of our sinne, as is done to thys ende, that wee maye obtayne mercy, by the vertue of y<seg rend="sup">e</seg> keyes. And for good cause is it called an accusation, bycause our sins are not so to be spoken of as though we bragged thereof, (as those vse to do, who reioyse when they haue done amisse) neyther are our sinnes to bee vttred in such
+<pb facs="tcp:183885:14"/>fort, as if we tolde a tale to de<g ref="char:EOLhyphen"/>lyte those that heare vs talke: But our sinnes must be spoken with such a mynde, that delyts in accusing of one his selfe, and that in such sort, that we are de<g ref="char:EOLhyphen"/>sirous to be reuenged of our sel<g ref="char:EOLhyphen"/>ues therefore. Our sinnes are confessed, to the ende wee maye haue forgiuenes therof: for this maner of iudgement is vnlyke to common iudgementes which concerne lyfe and death: wher<g ref="char:EOLhyphen"/>in such as confesse their faultes suffer payne and punishment, &amp; are not quytt or pardoned their fault.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:183885:15"/>
+               <head>After what sort a godly confes<g ref="char:EOLhyphen"/>sion must be made.</head>
+               <p>WE muste vse such care and diligēce in our confession as we vse in matters of greatest im<g ref="char:EOLunhyphen"/>portaunce: And we ought to em<g ref="char:EOLhyphen"/>ploy our labour in this, that we heale the woundes of our soule, and vtterly roote out all sinne.</p>
+               <p>True confession requireth these conditions folowing.</p>
+               <p n="1">
+                  <hi>1</hi> It must be done wholely and perfectly: Which thing is so ne<g ref="char:EOLhyphen"/>cessary, that whosoeuer of pur<g ref="char:EOLhyphen"/>pose, omitteth any thing whych
+<pb facs="tcp:183885:15"/>ought to be spoken of and confes<g ref="char:EOLhyphen"/>sed, and vtter what els hee lus<g ref="char:EOLhyphen"/>teth, he shall not onely receyue no commodity at all by that con<g ref="char:EOLhyphen"/>fession: But also much increa<g ref="char:EOLhyphen"/>seth his former offences.</p>
+               <p n="2">
+                  <hi>2</hi> We must not be carelesse, or negligently examyne our consci<g ref="char:EOLhyphen"/>ence or to slyghtly call our faults to mynde, as that wee maye be worthely thought we would not remember them at all.</p>
+               <p n="3">
+                  <hi>3</hi> It must be simple, bare, and playne, and not sett out or colo<g ref="char:EOLhyphen"/>red by art: As some vse to doe, who rather giue reasons of their lyfe, then confesse theire faultes
+<pb facs="tcp:183885:16"/>done in their lyfe tyme.</p>
+               <p n="4">
+                  <hi>4</hi> Our confession ought to haue in it wisdome and shamefastnes. For we must not spend to many wordes herein, but breifely de<g ref="char:EOLhyphen"/>clare such thinges as pertayne to nature and condicion of euery sinne: And in such sort we must deale therein that modesty be al<g ref="char:EOLhyphen"/>so ioyned there vnto.</p>
+               <p n="5">
+                  <hi>5</hi> Secricy is also necessary. For both the priest that confesseth &amp; the party confessed, ought to doo what he can, that the talke vsed in confession, be spoken secretly. For y<seg rend="sup">e</seg> which cause it is not law<g ref="char:EOLhyphen"/>full for any to make confessoin
+<pb facs="tcp:183885:16"/>of his sinnes, eyther by messen<g ref="char:EOLhyphen"/>ger or by letters: for so nothing shoulde be done secretly.</p>
+               <p n="6">
+                  <hi>6</hi> Confession must be done very often: For nothing shoulde bee such a care to a christian man as many tymes to come to confes<g ref="char:EOLhyphen"/>sion, and thereby to clense and wash our soule. For when any hath offended God in deadly sin, nothing can be more commody<g ref="char:EOLhyphen"/>ous to the auoydenge of many periles that hange ouer vs in thys lyfe, then presently to con<g ref="char:EOLhyphen"/>fesse our faultes. And whereas some vsing clenlynesse in appa<g ref="char:EOLhyphen"/>rell thincke also that clenlynesse
+<pb facs="tcp:183885:17"/>of dody maketh a man to lyue the longer: It is a foule mat<g ref="char:EOLunhyphen"/>ter we shoulde be so curi<g ref="char:EOLhyphen"/>ous in these thinges and not to be as care full to wash away the spottes of the soule.</p>
+            </div>
+            <pb facs="tcp:183885:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
